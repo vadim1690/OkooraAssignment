@@ -17,13 +17,7 @@
    - Ensure you have a running SQL Server instance.
    - The application will automatically create the database using `EnsureCreated()`.
 
-4. **.NET 6 SDK**
-   - Ensure the target computer has .NET 6 SDK installed.
-     ```
-     dotnet --version
-     ```
-
-5. **Running**
+4. **Running**
    - Open the solution in Visual Studio or VS Code.
    - Set `RateFetcher` and `RatePrinter` as startup projects.
    - Alternatively, run via terminal:
