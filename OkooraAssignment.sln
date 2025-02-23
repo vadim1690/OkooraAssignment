@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateFetcher", "RateFetcher\RateFetcher.csproj", "{8AD6CDFD-01B6-4323-A740-8C7E9CD69018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{5ADFB5B1-39C9-4498-B641-D8312FC35FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RatePrinter", "RatePrinter\RatePrinter.csproj", "{7E4246E4-E236-4545-8BB2-1884707BD9D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AD6CDFD-01B6-4323-A740-8C7E9CD69018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD6CDFD-01B6-4323-A740-8C7E9CD69018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD6CDFD-01B6-4323-A740-8C7E9CD69018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD6CDFD-01B6-4323-A740-8C7E9CD69018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ADFB5B1-39C9-4498-B641-D8312FC35FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADFB5B1-39C9-4498-B641-D8312FC35FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADFB5B1-39C9-4498-B641-D8312FC35FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADFB5B1-39C9-4498-B641-D8312FC35FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4246E4-E236-4545-8BB2-1884707BD9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4246E4-E236-4545-8BB2-1884707BD9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4246E4-E236-4545-8BB2-1884707BD9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4246E4-E236-4545-8BB2-1884707BD9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
